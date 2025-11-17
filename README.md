@@ -1,5 +1,6 @@
 # KaggleXGoogle_AiAgent_Day2B
 My Practice Work for KaggleXGoogle AI Agents Intensive Course Assignment 2b
+
 🧠 Exercise : Build an agent that generates images using the MCP server, but requires approval for "bulk" image generation:
 
 Single image request (1 image): Auto-approve, generate immediately
